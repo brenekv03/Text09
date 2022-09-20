@@ -1,4 +1,4 @@
-Název;Autor;Umístìní;Žánr;Rok
+Název;Autor;Umístìní;Žánr;Datum
 Ptáci v trní;Mc Culloughová Coolen;KL 1.PØ;B;12.4.1969
 Scarlett I;Ripleyová Alexandra;KL 1.PØ;B;13.5.1969
 Scarlett II;Ripleyová Alexandra;KL 1.PØ;B;14.4.1969
