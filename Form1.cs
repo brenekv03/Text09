@@ -21,6 +21,7 @@ namespace Text09
         private void button1_Click(object sender, EventArgs e)
         {
             StreamReader streamReader = new StreamReader(@"..\..\knihy.txt",Encoding.Default);
+            StreamWriter streamWriter = new StreamWriter("pomocny.txt");
             string jmenoAutora = textBox1.Text;
             string knizka = "";
             char[] strednik = { ';' };
@@ -36,8 +37,7 @@ namespace Text09
                     DateTime rokNapsani = DateTime.Parse(radek[4].ToString());
                     if (rokNapsani > DateTime.Parse("31-12-1950"))
                     {
-                        listBox2.Items.Add(line);
-
+                        streamWriter.WriteLine(line);
                     }
                 }
                 if (line.Contains(jmenoAutora)&&!prvniAutor)
@@ -46,6 +46,15 @@ namespace Text09
                     prvniAutor = true;
                 }
                 prvniProjeti=true;
+            }
+            streamReader.Close();
+            streamWriter.Close();
+            File.Delete(@"..\..\knihy.txt");
+            File.Move("pomocny.txt",@"..\..\knihy.txt");
+            streamReader = new StreamReader(@"..\..\knihy.txt",Encoding.Default);
+            while(!streamReader.EndOfStream)
+            {
+                listBox2.Items.Add(streamReader.ReadLine());
             }
             if (prvniAutor)
             {

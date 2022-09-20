@@ -1,62 +1,32 @@
-Název;Autor;Umístìní;ánr;Datum
-Ptáci v trní;Mc Culloughová Coolen;KL 1.PØ;B;12.4.1969
-Scarlett I;Ripleyová Alexandra;KL 1.PØ;B;13.5.1969
-Scarlett II;Ripleyová Alexandra;KL 1.PØ;B;14.4.1969
-Jih proti severu I;Mitchellová Margaret;KL 1.PØ;B;3.2.1953
-Jih proti severu II;Mitchellová Margaret;KL 1.PØ;B;3.2.1953
-Love story;Mitchellová Margaret;KL 1.PØ;B;31.1.1953
-Øeka bohù I;Smith Wilbur;KL 1.PØ;B;1.2.1953
-Øeka bohù II;Smith Wilbur;KL 1.PØ;B;2.2.1953
-Øeka bohù III,Èarodìj;Smith Wilbur;KL 1.PØ;B;3.2.1953
-Bìsnící spravedlnost;Smith Wilbur;KL 1.PØ;B;16.7.2000
-Désirée;Selinko Annemarie;KL 1.PØ;B;17.7.2000
-Zámoná ena;Bratfordová Barbara Taylor;KL 1.PØ;B;18.7.2000
-Uchovej si svùj sen;Bratfordová Barbara Taylor;KL 1.PØ;B;19.7.2000
-Bıt nejlepší;Bratfordová Barbara Taylor;KL 1.PØ;B;20.7.2000
-Cesta za láskou;Blake Jennifer;KL 1.PØ;B;21.7.2000
-Jianská vášeò;Blake Jennifer;KL 1.PØ;B;22.7.2000
-Jdi za svım snem;Vácha Stanislav;KL 2.PØ;B;16.7.2000
-Enola Gay;Man Gordon Thomas-Witts Morgan;KL 2.PØ;B;16.7.2000
-Moc a sláva;Greene Graham;KL 2.PØ;B;20.7.2000
-"K"znamená Kennedy";Puzo Mario;KL 2.PØ;B;21.7.2000
-Benjamín;Stıblová Valja;KL 2.PØ;B;22.7.2000
-S oèima navrch hlavy;Schmid Jan;KL 2.PØ;B;28.2.1967
-6000 kilometrù touhy;Achillesová Ilse-Buttová anja a Miriam;KL 2.PØ;B;1.3.1967
-Vıška;Kebza Josef;KL 2.PØ;B;2.3.1967
-Jak vytrhnout velrybì stolièku;Poledòáková Marie;KL 2.PØ;D;3.3.1967
-Dva plus pìt;Simenon Georges;KL 2.PØ;B;2.11.1948
-Nymfomanka;Rašek Antonín;KL 2.PØ;B;3.11.1948
-Promìny;Ullmannová Liv;KL 2.PØ;B;4.11.1948
-Pùlnoèní bìci;Zapletal Zdenìk;KL 2.PØ;B;5.11.1948
-Tøikrát v roli detektiva;Brett Simon;KL 2.PØ;B;6.11.1948
-Krámek s kráskami;Prouza Petr;KL 2.PØ;B;7.11.1948
-Polda;Frıbová Zdena;KL 2.PØ;B;8.11.1948
-Charleston;Ripleyová Alexandra;KL 2.PØ;B;3.4.1929
-Svatba ve vypùjèenıch šatech;Kostrhun Jan;KL 2.PØ;B;4.4.1929
-Záhady v Alleghe;Saviane Sergio;KL 2.PØ;B;5.4.1929
-Jaro;Undsetová Sigrid;KL 2.PØ;B;6.4.1929
-Ukrojte si u nás;Stanìk Josef;KL 2.PØ;B;7.4.1929
-Nezdárnı syn;Barnard Robert;KL 2.PØ;B;8.4.1929
-Dobrák Šimon;Ayguesparse Albert;KL 2.PØ;B;9.4.1929
-Karneval a Velkı pátek;Pausewangová Gudrun;KL 2.PØ;B;10.4.1929
-Vradíte Mozarta;Cesbron Gilbert;KL 2.PØ;B;11.4.1929
-Èas ozimù polomù a štìpù;Køenek Jiøí;KL 2.PØ;B;12.4.1929
-Dívka a vosa;Mahen Jiøí;KL 2.PØ;B;13.4.1929
-Vekslák;Frıbort Pavel;KL 2.PØ;B;14.4.1929
-Dva roky prázdnin;Verne Jules;KL 2.PØ;D;15.4.1929
-Pøípad štastnıch noek;Gardner Erle Stanley;KL 2.PØ;B;16.4.1929
-Matematika II;kolektiv autorù;KL 2.ZØ;U;17.4.1929
-Matematika III;kolektiv autorù;KL 2.ZØ;U;12.8.1979
-Strojírenská technologie I-nauka o materiálu;Hluchı Miroslav a kol.;KL 2.ZØ;U;13.8.1979
-Mechanická technológia-strojníctvo II;Drienski Dušan;KL 2.ZØ;U;14.8.1979
-Vırobní konstrukce;Novotnı-Dudík-Frank;KL 2.ZØ;U;15.8.1979
-Strojní souèásti;Bartoš J.-Novák V.;KL 2.ZØ;U;16.8.1979
-Strojírenská technologie 4-vırobní pomùcky;Frank Augustin a kol.;KL 2.ZØ;U;17.8.1979
-Mechanika II-prunost a pevnost;Kunc-Zima-Wanner;KL 2.ZØ;U;18.8.1979
-Angliètina pro jazykové školy I;;KL 2.ZØ;U;1.12.1933
-Temno;Jirásek Alois;KL 3.PØ;B;2.12.1933
-Psohlavci;Jirásek Alois;KL 3.PØ;B;3.12.1933
-F.L.Vìk II;Jirásek Alois;KL 3.PØ;B;4.12.1933
-F.L.Vìk III;Jirásek Alois;KL 3.PØ;B;5.12.1933
-F.L.Vìk IV;Jirásek Alois;KL 3.PØ;B;6.12.1933
-F.L.Vìk V;Jirásek Alois;KL 3.PØ;B;7.12.1933
+PtÃ¡ci v trnÃ­;Mc CulloughovÃ¡ Coolen;KL 1.PÅ˜;B;12.4.1969
+Scarlett I;RipleyovÃ¡ Alexandra;KL 1.PÅ˜;B;13.5.1969
+Scarlett II;RipleyovÃ¡ Alexandra;KL 1.PÅ˜;B;14.4.1969
+Jih proti severu I;MitchellovÃ¡ Margaret;KL 1.PÅ˜;B;3.2.1953
+Jih proti severu II;MitchellovÃ¡ Margaret;KL 1.PÅ˜;B;3.2.1953
+Love story;MitchellovÃ¡ Margaret;KL 1.PÅ˜;B;31.1.1953
+Å˜eka bohÅ¯ I;Smith Wilbur;KL 1.PÅ˜;B;1.2.1953
+Å˜eka bohÅ¯ II;Smith Wilbur;KL 1.PÅ˜;B;2.2.1953
+Å˜eka bohÅ¯ III,ÄŒarodÄ›j;Smith Wilbur;KL 1.PÅ˜;B;3.2.1953
+BÄ›snÃ­cÃ­ spravedlnost;Smith Wilbur;KL 1.PÅ˜;B;16.7.2000
+DÃ©sirÃ©e;Selinko Annemarie;KL 1.PÅ˜;B;17.7.2000
+ZÃ¡moÅ¾nÃ¡ Å¾ena;BratfordovÃ¡ Barbara Taylor;KL 1.PÅ˜;B;18.7.2000
+Uchovej si svÅ¯j sen;BratfordovÃ¡ Barbara Taylor;KL 1.PÅ˜;B;19.7.2000
+BÃ½t nejlepÅ¡Ã­;BratfordovÃ¡ Barbara Taylor;KL 1.PÅ˜;B;20.7.2000
+Cesta za lÃ¡skou;Blake Jennifer;KL 1.PÅ˜;B;21.7.2000
+JiÅ¾anskÃ¡ vÃ¡Å¡eÅˆ;Blake Jennifer;KL 1.PÅ˜;B;22.7.2000
+Jdi za svÃ½m snem;VÃ¡cha Stanislav;KL 2.PÅ˜;B;16.7.2000
+Enola Gay;Man Gordon Thomas-Witts Morgan;KL 2.PÅ˜;B;16.7.2000
+Moc a slÃ¡va;Greene Graham;KL 2.PÅ˜;B;20.7.2000
+"K"znamenÃ¡ Kennedy";Puzo Mario;KL 2.PÅ˜;B;21.7.2000
+BenjamÃ­n;StÃ½blovÃ¡ Valja;KL 2.PÅ˜;B;22.7.2000
+S oÄima navrch hlavy;Schmid Jan;KL 2.PÅ˜;B;28.2.1967
+6000 kilometrÅ¯ touhy;AchillesovÃ¡ Ilse-ButtovÃ¡ anja a Miriam;KL 2.PÅ˜;B;1.3.1967
+VÃ½Å¡ka;Kebza Josef;KL 2.PÅ˜;B;2.3.1967
+Jak vytrhnout velrybÄ› stoliÄku;PoledÅˆÃ¡kovÃ¡ Marie;KL 2.PÅ˜;D;3.3.1967
+Matematika III;kolektiv autorÅ¯;KL 2.ZÅ˜;U;12.8.1979
+StrojÃ­renskÃ¡ technologie I-nauka o materiÃ¡lu;HluchÃ½ Miroslav a kol.;KL 2.ZÅ˜;U;13.8.1979
+MechanickÃ¡ technolÃ³gia-strojnÃ­ctvo II;Drienski DuÅ¡an;KL 2.ZÅ˜;U;14.8.1979
+VÃ½robnÃ­ konstrukce;NovotnÃ½-DudÃ­k-Frank;KL 2.ZÅ˜;U;15.8.1979
+StrojnÃ­ souÄÃ¡sti;BartoÅ¡ J.-NovÃ¡k V.;KL 2.ZÅ˜;U;16.8.1979
+StrojÃ­renskÃ¡ technologie 4-vÃ½robnÃ­ pomÅ¯cky;Frank Augustin a kol.;KL 2.ZÅ˜;U;17.8.1979
+Mechanika II-pruÅ¾nost a pevnost;Kunc-Zima-Wanner;KL 2.ZÅ˜;U;18.8.1979
